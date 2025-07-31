@@ -76,6 +76,12 @@ Recommendations based on these insights were added at the end of the dashboard i
 
 ##  Dashboard & Reports
 
+<img width="1500" height="731" alt="Image" src="https://github.com/user-attachments/assets/92b95c2a-6bbb-485d-b137-a480cf0eba5d" />
+
+<img width="1160" height="655" alt="Image" src="https://github.com/user-attachments/assets/805c309f-e6cb-44b7-a634-27453808d030" />
+
+<img width="1500" height="661" alt="Image" src="https://github.com/user-attachments/assets/aadbb3c2-508e-43dd-a4fc-84377782ee93" />
+
 
 
 
