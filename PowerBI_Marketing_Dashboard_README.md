@@ -5,7 +5,7 @@ This project is a complete, end-to-end marketing analytics dashboard built using
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Marketing campaigns are only as good as their measurable results. This project focuses on answering critical marketing performance questions using real campaign data:
 
@@ -39,7 +39,7 @@ Each metric was developed using DAX measures to ensure they respond dynamically 
 
 ---
 
-## 🧠 Dashboard Components
+##  Dashboard Components
 
 The dashboard is structured to guide the user through layers of analysis:
 
@@ -54,7 +54,7 @@ The dashboard is structured to guide the user through layers of analysis:
 
 ---
 
-## 🎯 Analytical Insights
+##  Analytical Insights
 
 This dashboard helped extract business-driven insights such as:
 
@@ -75,7 +75,7 @@ Recommendations based on these insights were added at the end of the dashboard i
 
 ---
 
-## 📂 Assets & Deliverables
+##  Assets & Deliverables
 
 - `.pbix` Power BI Report File  
 - Cleaned & structured source data  
@@ -84,33 +84,8 @@ Recommendations based on these insights were added at the end of the dashboard i
 
 ---
 
-## 📸 Dashboard & Reports
+##  Dashboard & Reports
 
-**Power BI Dashboard Link:**  
-[Insert Power BI Public URL here]
 
-**Screenshots Folder:**  
-[Insert link or folder name here for dashboard images]
 
----
 
-## 🚀 Future Improvements
-
-- Embed real-time data using Power BI Service
-- Include R/Python visuals for predictive analytics
-- Integrate external campaign benchmarks
-- Embed export-ready summaries for stakeholders
-
----
-
-## 👤 About the Author
-
-**Alaa Elgezery**  
-Marketing Data Analyst | Power BI Developer  
-[LinkedIn] | [GitHub] | [Email]
-
----
-
-## 📄 License
-
-This project is intended for educational and non-commercial use only. For other uses, please contact the author.
